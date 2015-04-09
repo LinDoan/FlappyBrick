@@ -1,0 +1,10 @@
+Built app: FlappyBrick/apk/FlappyBrick.apk
+Unity Project Folder: FlappyBrick/project1
+
+To edit this project then do this:
+
+1. download FlappyBrick repository
+2. extract it onto your computer
+--- open unity and select open other, blah blah ---
+3. navigate to the project1 folder and select it
+4. hopefully you'll improve it
